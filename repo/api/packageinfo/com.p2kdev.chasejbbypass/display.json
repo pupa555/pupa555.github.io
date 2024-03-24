@@ -1,0 +1,17 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Chase Bank JB Detection Bypass!",
+        "source_code_link": ""
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.0",
+            "changes": "- Initial release on the repo"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Tiny Music Widget on LockScreen!",
+        "source_code_link": "https://github.com/p2kdev/TinyWidget14"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.0.2",
+            "changes": "- Initial release on the repo"
+        },
+        {
+            "date": "2023-06-12",
+            "version_number": "1.0.3",
+            "changes": "- Hide Volume Indicator"
+        }        
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Swipe down on app switcher card to kill all apps!",
+        "source_code_link": "https://github.com/p2kdev/QuitAll"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.2",
+            "changes": "Initial release on the repo"
+        },
+        {
+            "date": "2023-06-21",
+            "version_number": "1.2.1.1",
+            "changes": "Added preferences"
+        },
+        {
+            "date": "2024-02-16",
+            "version_number": "1.3",
+            "changes": "iOS16 Support!"
+        }                 
+    ]
+}

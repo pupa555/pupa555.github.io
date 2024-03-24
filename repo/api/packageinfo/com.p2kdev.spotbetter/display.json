@@ -1,0 +1,27 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Better Spotlight!",
+        "source_code_link": "https://github.com/p2kdev/SpotBetter"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.1.3",
+            "changes": "Initial release on the repo"
+        },
+        {
+            "date": "2024-02-17",
+            "version_number": "1.2",
+            "changes": "- iOS16 Support!\n - Added option to reorder pinned apps"
+        },
+        {
+            "date": "2024-03-07",
+            "version_number": "1.2.1",
+            "changes": "Fixed disabling action cards not working on iOS16"
+        }                 
+    ]
+}

@@ -1,1 +1,0 @@
-{ "Package": "com.pupa555.waqt", "Name": "Waqt", "Version": "1.3", "Architecture": "iphoneos-arm64", "Description": "Know more than just the current time!", "Maintainer": "pupa555", "Author": "pupa555", "Section": "Tweaks", "Depends": "mobilesubstrate, preferenceloader" }

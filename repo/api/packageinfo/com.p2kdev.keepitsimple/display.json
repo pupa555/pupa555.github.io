@@ -1,0 +1,22 @@
+{
+    "contact": {
+        "twitter": "p2kdev",
+        "email": "p2kdev@gmail.com"
+    },
+    "information": {
+        "description": "Single List of Notifications!",
+        "source_code_link": "https://github.com/p2kdev/KeepItSimple"
+    },
+    "changelog": [
+        {
+            "date": "2023-05-19",
+            "version_number": "1.2.2",
+            "changes": "- Initial release on the repo"
+        },
+        {
+            "date": "2024-02-06",
+            "version_number": "1.2.3",
+            "changes": "- iOS16 Support"
+        }        
+    ]
+}
