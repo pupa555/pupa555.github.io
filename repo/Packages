@@ -1,28 +1,18 @@
-Package: com.supermamon.newpackage
-Version: 2.0.0-1
+Package: com.pupa555.waqt
+Version: 1.3
+Architecture: iphoneos-arm64
+Maintainer: pupa555
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.pupa555.waqt_1.3_iphoneos-arm64.deb
+Size: 34004
+MD5sum: a0af1e2eeea58d1bac0a321e013ac9ca
+SHA1: 2a9fcef544898fe3eded7381b9cbd99b7cbe1848
+SHA256: 3cb72afe199a6d01dcce99f976bb107810ea9ac748655898ba7b0eac776f72d5
 Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (>7.0), mobilesubstrate
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.newpackage_2.0.0-1_iphoneos-arm.deb
-Size: 854
-MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
-Description: This is a sample new package. Firmware should be greater than 7.0
-Name: New Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
-
-Package: com.supermamon.oldpackage
-Version: 1.0.0-1
-Section: Tweaks
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
-Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
-Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
-Author: Reposi3 <reposithree@gmail.com>
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
-
+Description: Know more than just the current time!
+Author: pupa555
+Depiction: https://pupa555.github.io/repo/depictions/index.html?packageId=com.pupa555.waqt
+Icon: https://pupa555.github.io/repo/api/packageinfo/com.pupa555.waqt/icon.png
+Name: Waqt
+Sileodepiction: https://pupa555.github.io/repo/depictions/native/com.pupa555.waqt.js on
